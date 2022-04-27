@@ -1,0 +1,14 @@
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.exe
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.deps.json
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.runtimeconfig.json
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.runtimeconfig.dev.json
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.dll
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\bin\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.pdb
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.csproj.AssemblyReference.cache
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.AssemblyInfoInputs.cache
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.AssemblyInfo.cs
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.csproj.CoreCompileInputs.cache
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.dll
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.pdb
+C:\work\LeetCode-Problems\Engineering.DataStructure.Problems\Engineering.DataStructure.Problems\obj\Debug\netcoreapp3.1\Engineering.DataStructure.Problems.genruntimeconfig.cache
